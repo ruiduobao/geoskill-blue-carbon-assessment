@@ -1,0 +1,2 @@
+2026-07-28 02:43:31,896 [INFO] Blue Carbon Assessment - Starting
+2026-07-28 02:43:31,896 [ERROR] Invalid ecosystem type: invalid_type. Valid: {'all', 'mangrove', 'seagrass', 'salt_marsh'}
